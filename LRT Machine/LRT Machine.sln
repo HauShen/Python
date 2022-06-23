@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LRT Machine", "LRT Machine\LRT Machine.pyproj", "{4BAB092D-FA2C-47B4-9B58-D6918DB75286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BAB092D-FA2C-47B4-9B58-D6918DB75286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAB092D-FA2C-47B4-9B58-D6918DB75286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7322AFB4-B4C1-43DB-BB25-FD2F76043EE9}
+	EndGlobalSection
+EndGlobal
